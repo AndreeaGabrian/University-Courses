@@ -1,0 +1,15 @@
+Iteration:0 Valid:False Solution:[0, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 1] Weight:565  Value:597  Fitness_sum:0  Fitness_ratio:0 
+Iteration:1 Valid:True Solution:[0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 0] Weight:378  Value:297  Fitness_sum:297  Fitness_ratio:0.7857142857142857 
+Iteration:2 Valid:True Solution:[0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0] Weight:442  Value:435  Fitness_sum:435  Fitness_ratio:0.9841628959276018 
+Iteration:3 Valid:True Solution:[1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1] Weight:521  Value:573  Fitness_sum:573  Fitness_ratio:1.0998080614203456 
+Iteration:4 Valid:False Solution:[0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0] Weight:557  Value:540  Fitness_sum:0  Fitness_ratio:0 
+Iteration:5 Valid:False Solution:[0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1] Weight:783  Value:724  Fitness_sum:0  Fitness_ratio:0 
+Iteration:6 Valid:True Solution:[1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0] Weight:452  Value:494  Fitness_sum:494  Fitness_ratio:1.092920353982301 
+Iteration:7 Valid:True Solution:[0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1] Weight:517  Value:469  Fitness_sum:469  Fitness_ratio:0.90715667311412 
+Iteration:8 Valid:True Solution:[1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1] Weight:403  Value:589  Fitness_sum:589  Fitness_ratio:1.4615384615384615 
+Iteration:9 Valid:True Solution:[1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0] Weight:481  Value:450  Fitness_sum:450  Fitness_ratio:0.9355509355509356 
+Valid solutions:7
+Best solution sum(v):589, solution: [1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1]
+Best solution ratio(v/w):1.4615384615384615, solution: [1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1]
+Avg solution sum(v):472.42857142857144
+Avg solution ratio(v/w):1.0381216667497215
