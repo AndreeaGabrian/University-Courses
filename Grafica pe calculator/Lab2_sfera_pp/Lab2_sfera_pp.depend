@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1677741770 source:c:\users\gabri\documents\an 3 sem 2\grafica pe calculator\laboratoare\lab2_sfera_pp\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+

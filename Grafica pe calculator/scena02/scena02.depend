@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1651142458 source:c:\users\gabri\documents\an 3 sem 2\grafica pe calculator\laboratoare\scena02\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"model.h"
+	"mesh.h"
+	"obiect.h"
+	"scena.h"
+	"stb/stb_image.h"
+
+1650986002 c:\users\gabri\documents\an 3 sem 2\grafica pe calculator\laboratoare\scena02\model.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<stb/stb_image.h>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	"mesh.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<map>
+	<vector>
+
+1649682260 c:\users\gabri\documents\an 3 sem 2\grafica pe calculator\laboratoare\scena02\mesh.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<string>
+	<vector>
+
+1651140230 c:\users\gabri\documents\an 3 sem 2\grafica pe calculator\laboratoare\scena02\obiect.h
+	"model.h"
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1651141082 c:\users\gabri\documents\an 3 sem 2\grafica pe calculator\laboratoare\scena02\scena.h
+	"obiect.h"
+	<iostream>
+
+1646868044 source:c:\users\gabri\documents\an 3 sem 2\grafica pe calculator\laboratoare\scena02\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1649682294 source:c:\users\gabri\documents\an 3 sem 2\grafica pe calculator\laboratoare\scena02\mesh.cpp
+	"mesh.h"
+
+1650986098 source:c:\users\gabri\documents\an 3 sem 2\grafica pe calculator\laboratoare\scena02\model.cpp
+	"model.h"
+
+1651140814 source:c:\users\gabri\documents\an 3 sem 2\grafica pe calculator\laboratoare\scena02\obiect.cpp
+	"obiect.h"
+
+1651141268 source:c:\users\gabri\documents\an 3 sem 2\grafica pe calculator\laboratoare\scena02\scena.cpp
+	"scena.h"
+

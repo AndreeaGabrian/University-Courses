@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1584209020 source:c:\users\gabri\documents\an 3 sem 2\grafica pe calculator\laboratoare\lab3_exemplu_texturi\main.cpp
+	<iostream>
+
+1680163067 source:c:\users\gabri\documents\an 3 sem 2\grafica pe calculator\laboratoare\lab3_exemplu_texturi\textura_exemplu.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<math.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"stb/stb_image.h"
+
+1677741770 source:c:\users\gabri\documents\an 3 sem 2\grafica pe calculator\laboratoare\lab3_exemplu_texturi\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+

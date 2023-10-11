@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1647458326 source:c:\users\gabri\documents\an 3 sem 2\grafica pe calculator\laboratoare\lab2_cub_pp\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1677738170 source:c:\users\gabri\documents\an 3 sem 2\grafica pe calculator\laboratoare\lab2_cub_pp\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
