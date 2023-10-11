@@ -1,0 +1,1 @@
+hello "" numar:integer; ? rest:integer; resu?lt:string;GO read(numar); rest=numar%3 if rest==0 then {result="multiplu3"} else{#result="nuEsteMultiplu_3"} write(result); DONE bye
