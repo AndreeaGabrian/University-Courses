@@ -1,0 +1,26 @@
+{
+  "non_terminale": ["S","A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","T"],
+  "terminale": ["a","b","c", "d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","y","z","u","w","EPSILON"],
+  "productii": {
+    "S": ["cBnCm"],
+    "B": ["D","DnB"],
+    "D": ["anE"],
+    "E": ["e","d"],
+    "C": ["fFl"],
+    "F": ["H","HF"],
+    "H": ["I","J"],
+    "I": ["K","L"],
+    "K": ["arMn","aran"],
+    "M": ["MNO"],
+    "N": ["y","w","q"],
+    "O": ["ONP","P"],
+    "P": ["oMp","a", "b"],
+    "L": ["goapn","koapn"],
+    "J": ["A"],
+    "A": ["hQiuFz","T"],
+    "Q": ["MRM"],
+    "T": ["juFz","EPSILON"],
+    "R": ["s"]
+  },
+  "simbol_start": "S"
+}

@@ -1,0 +1,10 @@
+{
+  "non_terminale": ["S","A","B"],
+  "terminale": ["a","b","c"],
+  "productii": {
+    "S": ["aB","bA"],
+    "A": ["a","aS","bAA"],
+    "B": ["b","bS","aBB"]
+  },
+  "simbol_start": "S"
+}

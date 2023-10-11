@@ -1,0 +1,17 @@
+1.Verificare daca un numar intreg este multiplu de 3
+	
+	hello
+	numar:integer; rest:integer; result:string;
+	GO
+	read(numar);
+	rest=numar%3;
+	if rest==0 then {result=”multiplu3”}
+	else{result=”nuEsteMultiplu3”}
+	write(result);
+	DONE
+	bye
+
+
+In scriere cu fip
+-------------------------------
+cavdnanavdnavenfgopnaraqbnhasbiuartbtzjurtbtzkoapnlm

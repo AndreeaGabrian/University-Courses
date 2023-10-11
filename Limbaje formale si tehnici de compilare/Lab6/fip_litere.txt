@@ -1,0 +1,21 @@
+identificator = a
+constanta = b
+hello = c
+integer = d
+string = e
+GO = f
+read = g
+if = h
+then = i
+else = j
+write = k
+DONE = l
+bye = m
+; = n
+( = o
+) = p 
+% = q
+= = r
+== = s
+" = t
+

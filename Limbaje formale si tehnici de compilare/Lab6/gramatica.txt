@@ -1,0 +1,43 @@
+program = S
+listaDeclaratii = B
+instructiuneCompusa = C
+declaratie = D
+tip = E
+listaInstructiuni = F
+instructiune = H
+instructiuneSimpla = I
+instructiuneComplexa = J
+instructiuneAtribuire = K
+instructiuneInputOutput = L
+expresie = M
+operatie = N
+termen = O
+factor = P
+conditie = Q
+relatie = R
+instructiuneIf = A
+instructiuneElse = T
+
+Gramatica
+
+S->cBnCm
+B->D|DnB
+D->anE
+E->e|d
+C->fFl
+F->H|HF
+H->I|J
+I->K|L
+K->arMn|aran
+M->MNO
+N->y|w|q
+O->ONP|P
+P->oMp|a|b
+L->goapn|koapn
+J->A
+A->hQiuFz | T
+Q->MRM
+T->juFz|EPSILON
+R->s|  
+
+ 
