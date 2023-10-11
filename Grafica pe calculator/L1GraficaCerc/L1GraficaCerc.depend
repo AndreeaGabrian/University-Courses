@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677749068 source:c:\users\gabri\documents\an 3 sem 2\grafica pe calculator\laboratoare\l1graficacerc\main.cpp
+	<GLFW/glfw3.h>
+	<GL/glut.h>
+

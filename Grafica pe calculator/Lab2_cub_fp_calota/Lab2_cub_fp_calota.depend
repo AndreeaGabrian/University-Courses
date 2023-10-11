@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1647461692 source:c:\users\gabri\documents\an 3 sem 2\grafica pe calculator\laboratoare\lab2_cub_fp_calota\main.cpp
+	<GLFW/glfw3.h>
+	<GL/glut.h>
+	<unistd.h>
+	<math.h>
+
